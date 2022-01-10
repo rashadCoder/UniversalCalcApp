@@ -1,16 +1,13 @@
 # calc_app
 
-A new Flutter project.
+Hello!
+Welcome to UniversalCalcApp, This project is created by Rashad Al-Hamhami and the project target is to cover all calculator types in a single applications.
+![allscreens](https://user-images.githubusercontent.com/97428098/148731920-955da859-9ea2-4e5e-8d31-931e31fcbb78.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+## New to fluter ? 
+This project is developed using Flutter.
+I recommend these resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Course from Udemy] Flutter & Dart - The Complete Guide [2022 Edition]
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
