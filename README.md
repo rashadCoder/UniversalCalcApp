@@ -2,7 +2,7 @@
 
 Hello!
 Welcome to UniversalCalcApp, This project is created by Rashad Al-Hamhami and the project target is to cover all calculator types in a single applications.
-![allscreens](https://user-images.githubusercontent.com/97428098/148731920-955da859-9ea2-4e5e-8d31-931e31fcbb78.jpeg)
+![all](https://user-images.githubusercontent.com/97428098/149077350-f64530f5-492b-406a-9c76-856f1e47cec3.jpeg)
 
 ## New to fluter ? 
 This project is developed using Flutter.
