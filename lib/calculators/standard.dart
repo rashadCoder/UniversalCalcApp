@@ -94,6 +94,11 @@ class _MyAppState extends State<stdCalc> {
             style: TextStyle(color: Colors.yellow),
           ),
           centerTitle: true,
+          actions: [
+            IconButton(
+                onPressed: () => Navigator.of(context).pushNamed('/aboutUs'),
+                icon: Icon(Icons.more_vert))
+          ],
         ),
         drawer: thedrawer(),
         body: Column(

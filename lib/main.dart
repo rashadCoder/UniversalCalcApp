@@ -6,6 +6,7 @@ import './calculators/prog.dart';
 import './calculators/sci.dart';
 import './widgets/thedrawer.dart';
 import './widgets/calcButton.dart';
+import './aboutus.dart';
 
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -29,6 +30,7 @@ class _MyAppState extends State<MyApp> {
         '/prog': (ctx) => progCalc(),
         '/weight': (ctx) => weightCalc(),
         '/time': (ctx) => timeCalc(),
+        '/aboutUs': (ctx) => aboutUs(),
       },
       debugShowCheckedModeBanner: false,
     );
